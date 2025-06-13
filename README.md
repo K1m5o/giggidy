@@ -8,7 +8,6 @@ class QuagmireBot:
             "Well, hello, neighbor! Giggity giggity goo.",
             "Whoa! Someone call for a pilot? Giggity."
         ]
-# giggidy
 
 import random
 
