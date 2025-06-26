@@ -21,7 +21,7 @@ class QuagmireBot:
             "Whoa! Someone call for a pilot? Giggity."
         ]
         self.flirty_lines = [
-            "Are you a flight attendant? Because my heart is taking off!",
+            "Are you a flight attendant? Because something is going up!",
             "You must be tired—because you’ve been running through my mind all day.",
             "You ever been with a cartoon before? Giggity."
         ]
