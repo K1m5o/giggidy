@@ -56,5 +56,3 @@ print(quagmire.respond("flirt with me"))
 print(quagmire.respond("give me a catchphrase"))
 print(quagmire.respond("any advice?"))
 
-
-
